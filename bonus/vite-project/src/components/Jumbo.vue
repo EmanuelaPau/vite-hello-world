@@ -35,7 +35,7 @@ export default {
 <style scoped>
 .my_jumbo {
     width: 100%;
-    height: 600px;
+    height: 550px;
     text-align: center;
     background-color: aqua;
     padding-top: 20px;
