@@ -1,6 +1,6 @@
 <template>
     <div class="my_Jumbo">
-        Jumbo
+        This is my Jumbo
     </div>
 </template>
 
