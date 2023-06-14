@@ -10,4 +10,11 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped></style>
+<style scoped>
+.my_Jumbo {
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    background-color: aqua;
+}
+</style>
